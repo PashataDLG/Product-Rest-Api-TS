@@ -10,7 +10,7 @@ The project follows the tutorial from [this YouTube video](https://www.youtube.c
 
 ## Tutorial Information
 
-This REST API is built step-by-step following a YouTube tutorial. Special thanks to the creator for providing such helpful content.
+This REST API is built step-by-step following a YouTube tutorial. Special thanks to **Code With Antonio** for providing such helpful content.
 
 ## Technologies Used
 
